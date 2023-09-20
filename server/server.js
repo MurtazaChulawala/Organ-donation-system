@@ -4,13 +4,6 @@ const { MongoClient } = require('mongodb');
 const bodyParser = require("body-parser");
 const user = process.env.user;
 const password = process.env.password;
-
-app.use(
-            cors({
-                origin : ["http://localhost:3000","https://organ-donation-system-api.onrender.com"]
-            })
-        );
-
 async function main() {
     const uri = "mongodb+srv://"+user+":"+password+"@cluster0.bnxmzjg.mongodb.net/?retryWrites=true&w=majority";
     const client = new MongoClient(uri);
