@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22b6ce54.css",
+    "main.js": "/static/js/main.427528d7.js",
+    "static/js/787.9b9a67fc.chunk.js": "/static/js/787.9b9a67fc.chunk.js",
+    "static/media/organ-donation.jpg": "/static/media/organ-donation.3feb21dec4ece08f239f.jpg",
+    "index.html": "/index.html",
+    "main.22b6ce54.css.map": "/static/css/main.22b6ce54.css.map",
+    "main.427528d7.js.map": "/static/js/main.427528d7.js.map",
+    "787.9b9a67fc.chunk.js.map": "/static/js/787.9b9a67fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22b6ce54.css",
+    "static/js/main.427528d7.js"
+  ]
+}
